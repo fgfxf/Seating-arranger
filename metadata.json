@@ -1,0 +1,5 @@
+{
+  "name": "Smart Seating Arranger",
+  "description": "A classroom seating management tool that automatically arranges students by pairs, prioritizing same-gender seating with configurable options.",
+  "requestFramePermissions": []
+}
