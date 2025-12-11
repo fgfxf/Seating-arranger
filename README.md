@@ -14,10 +14,10 @@
 	`npm install vite --save-dev`
 	
 3. 构建
-  ​`npx vite build`
+    ​`npx vite build`
 
 4. target at dist/
 
   `python -m http.server`
 
-![2025-12-12_001205_410](.\img\2025-12-12_001205_410.png)
+![2025-12-12_001205_410](/img/2025-12-12_001205_410.png?raw=true)
