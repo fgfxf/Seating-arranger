@@ -18,6 +18,12 @@
 
 4. target at dist/
 
-  `python -m http.server`
+    `python -m http.server`
 
 ![2025-12-12_001205_410](/img/2025-12-12_001205_410.png?raw=true)
+
+**特点**：
+
+1. 可以禁止某个座位坐人
+2. 可以手动拖拽
+3. 可以固定某个人的座位
