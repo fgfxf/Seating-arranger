@@ -7,14 +7,5 @@ export default defineConfig({
   build: {
 	outDir: 'dist',
 	minify: 'esbuild', // 默认就是 esbuild，也可以用 'terser'
-    rollupOptions: {
-      output: {
-        manualChunks(id) {
-          if (id.includes('node_modules')) {
-            return 'vendor' // 所有第三方库打包到 vendor.js
-          }
-        }
-      }
-    }
   }
 })
